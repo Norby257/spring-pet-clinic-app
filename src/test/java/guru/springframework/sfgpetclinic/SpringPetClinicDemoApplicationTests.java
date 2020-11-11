@@ -1,6 +1,7 @@
-package com.demo.springpetclinicdemo;
+//package com.demo.springpetclinicdemo;
+package guru.springframework.sfgpetclinic;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
